@@ -1,0 +1,14 @@
+Belcarra USBLAN driver
+======================
+
+This repository will contain my cleanup work on the Belcarra driver,
+to the point where it can be merged into some 2.6.4x kernel without
+cringing :-).
+
+The Belcarra USBLAN driver is useful to talking to some devices
+implementing the interface, such as certain Motorola products.
+
+Contact Info
+============
+
+Andrei Warkentin (andrey.warkentin@gmail.com, andreiw@motorola.com)
